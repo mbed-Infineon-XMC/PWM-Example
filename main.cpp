@@ -20,7 +20,7 @@
 
 /******************************************************************** Globals */
 PwmOut out1(LED1); //Change light intensity of LED1
-PwmOut out2(LED2); //Blink LED1 with 1HZ.
+PwmOut out2(LED2); //Blink LED1 with 1Hz.
 Ticker flipper;
 
 /****************************************************************** Functions */
