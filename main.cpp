@@ -43,7 +43,6 @@ void change_duty_cycle() {
     out1.write(duty);
 }
 
-
 /**
  * Main Function
  */
